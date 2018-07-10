@@ -1,0 +1,21 @@
+Angular  JS(Sumith)synergy2411@outlook.com
+
+AOT Compiler(ahead of time compiler)
+
+Destructuring - splitting of arrays
+Template string syntax - multi line string
+Block scoping
+// -let
+// -const
+
+
+npm install -g typescript
+
+tsc -v
+
+npm install @angular/cli@1.7
+ng new <projectname>
+cd <projectname>
+ng serve
+
+https://github.com/synergy2411/demo-soc-gen
